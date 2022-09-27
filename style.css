@@ -1,0 +1,106 @@
+body{
+    margin: 0%;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+nav{
+    background-image: url(assent/imgs/html/background2.jpg);
+}
+
+div.profile{
+    height: 400px;
+    background-image:  url(assent/imgs/html/background2.jpg);
+    text-align: center;
+    color: white;
+}
+
+.img-fluid{
+    border-radius: 100%;
+}
+
+div.profile h1{
+    font-weight: 500;
+    font-size: x-large; 
+}
+
+section.about{
+    background-color: black;
+    height: 520px;
+    text-align: center;
+    color: white;
+    max-width: ;
+}
+
+section.about h1{
+    font-weight: 500;
+}
+
+section.about p{
+    font-weight: 400;
+    font-size: medium;
+    text-align: left;
+}
+
+section.about div.about-card{
+    display: inline-flex;
+    padding: 0 5%;
+}
+
+section.about div.about-card .card{
+    background-image: url(assent/imgs/html/background2.jpg);
+    margin: 0;
+    padding: 0;
+
+}
+a.HTML{
+    text-decoration: none;
+    color: white;
+}
+
+a.HTML :hover{
+    color: blue;
+}
+
+a.css{
+    text-decoration: none;
+    color: white;
+}
+
+a.css :hover{
+    color: orangered;
+}
+
+a.bootstrap{
+    text-decoration: none;
+    color: white;
+}
+
+a.bootstrap :hover{
+    color: purple;
+}
+
+a.github{
+    text-decoration: none;
+    color: white;
+}
+
+a.github :hover{
+    color: white;
+}
+
+.work{
+    background-image: url(/assent/imgs/html/background2.jpg);
+}
+
+footer.pt-2{
+    background-image: url(/assent/imgs/html/background2.jpg);
+}
+
+footer .contac{
+    display: inline-flex;
+    padding: 2%;
+}
+
+footer i{
+    color: white;
+}
