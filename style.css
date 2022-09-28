@@ -1,15 +1,11 @@
 body{
     margin: 0%;
     font-family: 'IBM Plex Sans', sans-serif;
-}
-
-nav{
-    background-image: url(assent/imgs/html/background2.jpg);
+    background-image: url(/assent/imgs/html/background2.jpg);
 }
 
 div.profile{
     height: 400px;
-    background-image:  url(assent/imgs/html/background2.jpg);
     text-align: center;
     color: white;
 }
@@ -79,14 +75,6 @@ a.github{
 
 a.github :hover{
     color: white;
-}
-
-.work{
-    background-image: url(/assent/imgs/html/background2.jpg);
-}
-
-footer.pt-2{
-    background-image: url(/assent/imgs/html/background2.jpg);
 }
 
 footer i{
