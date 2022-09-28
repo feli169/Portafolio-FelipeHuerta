@@ -1,7 +1,7 @@
 body{
     margin: 0%;
     font-family: 'IBM Plex Sans', sans-serif;
-    background-image: url(/assent/imgs/html/background2.jpg);
+    background-image: url(/assent/imgs/html/background.gif);
 }
 
 div.profile{
@@ -37,7 +37,7 @@ section.row p{
 }
 
 section.row div.col-xs-auto .card{
-    background-image: url(assent/imgs/html/background2.jpg);
+    background-image: url(assent/imgs/html/background.gif);
     margin: 0;
     padding: 0;
 }
