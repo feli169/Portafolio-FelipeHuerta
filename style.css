@@ -1,0 +1,83 @@
+body{
+    margin: 0%;
+    font-family: 'IBM Plex Sans', sans-serif;
+    background-image: url(/assent/imgs/background2.jpg);
+}
+
+div.profile{
+    height: 400px;
+    text-align: center;
+    color: white;
+}
+
+.img-fluid{
+    border-radius: 100%;
+}
+
+div.profile h1{
+    font-weight: 500;
+    font-size: x-large; 
+}
+
+section.row{
+    background-color: black;
+    height: 520px;
+    text-align: center;
+    color: white;
+}
+
+section.row h1{
+    font-weight: 500;
+}
+
+section.row p{
+    font-weight: 400;
+    font-size: medium;
+    text-align: left;
+}
+
+section.row div.col-xs-auto .card{
+    background-image: url(/assent/imgs/background2.jpg);
+    margin: 2px 0;
+    padding:1PX;
+    border: solid 2px white;
+}
+a.HTML{
+    text-decoration: none;
+    color: white;
+}
+
+a.HTML :hover{
+    color: blue;
+}
+
+a.css{
+    text-decoration: none;
+    color: white;
+}
+
+a.css :hover{
+    color: orangered;
+}
+
+a.bootstrap{
+    text-decoration: none;
+    color: white;
+}
+
+a.bootstrap :hover{
+    color: purple;
+}
+
+a.github{
+    text-decoration: none;
+    color: white;
+}
+
+a.github :hover{
+    color: white;
+}
+
+footer i{
+    color: white;
+}
