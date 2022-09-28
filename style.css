@@ -1,15 +1,11 @@
 body{
     margin: 0%;
     font-family: 'IBM Plex Sans', sans-serif;
-}
-
-nav{
-    background-image: url(assent/imgs/html/background2.jpg);
+    background-image: url(/assent/imgs/html/background2.jpg);
 }
 
 div.profile{
     height: 400px;
-    background-image:  url(assent/imgs/html/background2.jpg);
     text-align: center;
     color: white;
 }
@@ -23,34 +19,27 @@ div.profile h1{
     font-size: x-large; 
 }
 
-section.about{
+section.row{
     background-color: black;
     height: 520px;
     text-align: center;
     color: white;
-    max-width: ;
 }
 
-section.about h1{
+section.row h1{
     font-weight: 500;
 }
 
-section.about p{
+section.row p{
     font-weight: 400;
     font-size: medium;
     text-align: left;
 }
 
-section.about div.about-card{
-    display: inline-flex;
-    padding: 0 5%;
-}
-
-section.about div.about-card .card{
+section.row div.col-xs-auto .card{
     background-image: url(assent/imgs/html/background2.jpg);
     margin: 0;
     padding: 0;
-
 }
 a.HTML{
     text-decoration: none;
@@ -86,19 +75,6 @@ a.github{
 
 a.github :hover{
     color: white;
-}
-
-.work{
-    background-image: url(/assent/imgs/html/background2.jpg);
-}
-
-footer.pt-2{
-    background-image: url(/assent/imgs/html/background2.jpg);
-}
-
-footer .contac{
-    display: inline-flex;
-    padding: 2%;
 }
 
 footer i{
